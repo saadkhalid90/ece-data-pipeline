@@ -1,0 +1,24 @@
+{
+    "id": "A8F507EB",
+    "path": "~/Desktop/R-Projects/ECE R/pmiu-dash/ui.r",
+    "project_path": "pmiu-dash/ui.r",
+    "type": "r_source",
+    "hash": "3285115534",
+    "contents": "",
+    "dirty": false,
+    "created": 1643197081730.0,
+    "source_on_save": false,
+    "relative_order": 21,
+    "properties": {
+        "cursorPosition": "69,23",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1645109165,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1645109165916,
+    "read_only": false,
+    "read_only_alternatives": []
+}

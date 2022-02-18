@@ -1,0 +1,17 @@
+weightAndBase <- function(minVW = 40, maxVW = 120, minFontSize, maxFontSize) {
+  A <- matrix(
+    data=c(
+      (minVW/100), 
+      1, 
+      (maxVW/100), 
+      1
+    ), 
+    nrow=2, 
+    ncol=2, 
+    byrow=TRUE
+  ) 
+  b <- matrix(data=c(minFontSize, maxFontSize), nrow=2, ncol=1, byrow=FALSE)
+  return(round(solve(A, b), 3))
+}
+
+weightAndBase(minFontSize = 1, maxFontSize = 2)

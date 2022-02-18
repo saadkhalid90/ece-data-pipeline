@@ -1,0 +1,24 @@
+{
+    "id": "42D0A65E",
+    "path": "~/Desktop/R-Projects/ECE R/scripts/checks/schoolnfoChecks.r",
+    "project_path": "scripts/checks/schoolnfoChecks.r",
+    "type": "r_source",
+    "hash": "841562056",
+    "contents": "",
+    "dirty": false,
+    "created": 1642506812533.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "cursorPosition": "128,78",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1644215889,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1644215889758,
+    "read_only": false,
+    "read_only_alternatives": []
+}

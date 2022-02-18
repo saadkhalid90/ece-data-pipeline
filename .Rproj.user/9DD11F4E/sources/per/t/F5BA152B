@@ -1,0 +1,25 @@
+{
+    "id": "F5BA152B",
+    "path": "~/Desktop/R-Projects/ECE R/scripts/05-preProc.R",
+    "project_path": "scripts/05-preProc.R",
+    "type": "r_source",
+    "hash": "667721733",
+    "contents": "",
+    "dirty": false,
+    "created": 1642422074346.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "6,26",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1642592205,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1642592205569,
+    "read_only": false,
+    "read_only_alternatives": []
+}

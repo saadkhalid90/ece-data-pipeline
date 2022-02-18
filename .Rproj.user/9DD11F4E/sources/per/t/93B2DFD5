@@ -1,0 +1,25 @@
+{
+    "id": "93B2DFD5",
+    "path": "~/Desktop/R-Projects/ECE R/scripts/checks/obsChecks.r",
+    "project_path": "scripts/checks/obsChecks.r",
+    "type": "r_source",
+    "hash": "3568342816",
+    "contents": "",
+    "dirty": false,
+    "created": 1643648104529.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "7,37",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1644423782,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1644423782855,
+    "read_only": false,
+    "read_only_alternatives": []
+}

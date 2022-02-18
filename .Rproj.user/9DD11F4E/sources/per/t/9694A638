@@ -1,0 +1,25 @@
+{
+    "id": "9694A638",
+    "path": "~/Desktop/R-Projects/ECE R/scripts/04-varDiff.r",
+    "project_path": "scripts/04-varDiff.r",
+    "type": "r_source",
+    "hash": "981785795",
+    "contents": "",
+    "dirty": false,
+    "created": 1642495589095.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "12,20",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1642495706,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1642495706254,
+    "read_only": false,
+    "read_only_alternatives": []
+}

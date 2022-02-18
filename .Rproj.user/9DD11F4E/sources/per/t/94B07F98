@@ -1,0 +1,24 @@
+{
+    "id": "94B07F98",
+    "path": "~/Desktop/R-Projects/ECE R/scripts/checks/teacherChecks.r",
+    "project_path": "scripts/checks/teacherChecks.r",
+    "type": "r_source",
+    "hash": "1930619669",
+    "contents": "",
+    "dirty": false,
+    "created": 1642500767649.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "cursorPosition": "254,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1644506431,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1644506431017,
+    "read_only": false,
+    "read_only_alternatives": []
+}

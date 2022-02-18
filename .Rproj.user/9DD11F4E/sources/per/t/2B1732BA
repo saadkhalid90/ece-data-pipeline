@@ -1,0 +1,24 @@
+{
+    "id": "2B1732BA",
+    "path": "~/Desktop/R-Projects/ECE R/ece-dash/server.r",
+    "project_path": "ece-dash/server.r",
+    "type": "r_source",
+    "hash": "2797348801",
+    "contents": "",
+    "dirty": false,
+    "created": 1642502432155.0,
+    "source_on_save": false,
+    "relative_order": 16,
+    "properties": {
+        "cursorPosition": "504,6",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1644474086,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1644474086918,
+    "read_only": false,
+    "read_only_alternatives": []
+}

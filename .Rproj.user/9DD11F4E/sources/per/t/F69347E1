@@ -1,0 +1,24 @@
+{
+    "id": "F69347E1",
+    "path": "~/Desktop/R-Projects/ECE R/ece-dash/app.r",
+    "project_path": "ece-dash/app.r",
+    "type": "r_source",
+    "hash": "3473702824",
+    "contents": "",
+    "dirty": false,
+    "created": 1642502434108.0,
+    "source_on_save": false,
+    "relative_order": 18,
+    "properties": {
+        "cursorPosition": "5,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1642104488,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1642104488,
+    "read_only": false,
+    "read_only_alternatives": []
+}

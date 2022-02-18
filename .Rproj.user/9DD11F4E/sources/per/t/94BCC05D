@@ -1,0 +1,24 @@
+{
+    "id": "94BCC05D",
+    "path": "~/Desktop/R-Projects/ECE R/scripts/03-summary.r",
+    "project_path": "scripts/03-summary.r",
+    "type": "r_source",
+    "hash": "2682442427",
+    "contents": "",
+    "dirty": false,
+    "created": 1642420133114.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cursorPosition": "109,32",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1642592530,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1642592530561,
+    "read_only": false,
+    "read_only_alternatives": []
+}
